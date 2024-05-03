@@ -1,6 +1,6 @@
 # how about if we build some code
 
-x <- c(1, 2, 3, 4)
+x <- c(1, 2, 3, 4, 5, 6, 7)
 u <- mean(x)
 u
 
